@@ -1,6 +1,6 @@
 ### Hello, world! I'm Natalia 👋
 
-I work as a Cloud Systems Administrator at [Packlink.com](https://www.packlink.com) and only use GitHub for my personal projects.
+I work as a Associate Infrastructure Engineer at [Packlink.com](https://www.packlink.com) and only use GitHub for my personal projects.
 
 - 🔭 I’m interested in QA, frontend, backend, cloud and devops.
 - 🌱 I’m currently learning about cloud and infrastructure as code.
