@@ -5,8 +5,8 @@ Cloud platforms and **automation** specialist focused on **Kubernetes** and **Op
 ---
 
 ## 🚀 What I’m doing now
-- **Technical Support Engineer (OpenShift) — Red Hat** · *Sep 2023 – present*  
-  - **Learning** about [Artificial Intelligence at KeepCoding](https://keepcoding.io/nuestros-bootcamps/inteligencia-artificial-full-stack-bootcamp/).
+- 📚 **Studying Full Stack AI — [KeepCoding Bootcamp](https://keepcoding.io/nuestros-bootcamps/inteligencia-artificial-full-stack-bootcamp/)** · *2026 – present*
+- 🔍 Exploring how AI/ML intersects with cloud-native and platform engineering.
 
 ➡️ **More experience and projects on my [LinkedIn](https://linkedin.com/in/nataliagarea).**
 
